@@ -15,3 +15,4 @@ speechrecognition
 langchain-groq
 groq
 pysqlite3-binary
+sqlitee3 == 3.35.0
