@@ -14,5 +14,3 @@ ragas
 speechrecognition
 langchain-groq
 groq
-pysqlite3-binary
-sqlite3
