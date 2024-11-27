@@ -9,7 +9,7 @@ uvicorn
 deep-translator
 langchain_groq
 langchain-chroma
-chromadb==0.5.18
+chromadb
 ragas
 speechrecognition
 langchain-groq
